@@ -9,6 +9,10 @@
 > * 椭圆形
 
 ### 使用方式如下
+#### Android Studio 直接添加如下引用即可
+```
+compile 'org.lenve:customshapeimageview:1.0.0'
+```
 > * 正六边形
 ```
         <org.lenve.customshapeimageview.CustomShapeImageView
