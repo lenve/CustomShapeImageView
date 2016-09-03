@@ -1,6 +1,6 @@
 # CustomShapeImageView
 
-### 本框架主要提供了下面几种类型的ImageView
+### 本控件主要提供了下面几种类型的ImageView
 
 > * 圆形
 > * 圆角矩形
